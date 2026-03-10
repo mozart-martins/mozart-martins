@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mozart-martins,
-- 👀 I’m interested in learn fullstack software development, software architecture e devops.
-- 🌱 I’m currently learning IA Engineer.
+- 👀 I’m interested in learn fullstack software development e devops.
+- 🌱 I’m currently DevOps Engineering.
 
 <!---
 mozart-martins/mozart-martins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
